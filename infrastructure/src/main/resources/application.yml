@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: HospitalReportingSystem
+  datasource:
+    url: jdbc:postgresql://localhost:5432/hospitalReportingSystem
+    username: postgres
+    password: postgres
+server:
+  port: 8080
