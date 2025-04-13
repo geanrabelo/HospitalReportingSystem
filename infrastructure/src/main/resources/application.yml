@@ -5,5 +5,8 @@ spring:
     url: jdbc:postgresql://localhost:5432/hospitalReportingSystem
     username: postgres
     password: postgres
+api:
+  security:
+    secret: my-secret
 server:
   port: 8080

@@ -3,7 +3,7 @@ package com.br.infrastructure.controller;
 import com.br.infrastructure.dto.MessageDTO;
 import com.br.infrastructure.dto.PatientCreationDTO;
 import com.br.infrastructure.dto.PatientDetailsDTO;
-import com.br.infrastructure.interfaces.PatientService;
+import com.br.infrastructure.services.PatientService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

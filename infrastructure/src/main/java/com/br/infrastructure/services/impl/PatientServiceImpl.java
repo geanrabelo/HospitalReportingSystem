@@ -1,9 +1,9 @@
-package com.br.infrastructure.interfaces.impl;
+package com.br.infrastructure.services.impl;
 
 import com.br.core.entity.PatientEntity;
 import com.br.infrastructure.dto.PatientCreationDTO;
 import com.br.infrastructure.dto.PatientDetailsDTO;
-import com.br.infrastructure.interfaces.PatientService;
+import com.br.infrastructure.services.PatientService;
 import com.br.infrastructure.mapper.PatientMapper;
 import com.br.usecases.PatientEntityUsecases;
 import org.springframework.stereotype.Service;

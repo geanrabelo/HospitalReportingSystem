@@ -1,4 +1,4 @@
-package com.br.infrastructure.interfaces;
+package com.br.infrastructure.services;
 
 import com.br.infrastructure.dto.ExamsCreationDTO;
 import com.br.infrastructure.dto.ExamsDetailsDTO;

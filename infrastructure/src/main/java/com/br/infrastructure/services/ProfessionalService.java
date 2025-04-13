@@ -1,6 +1,5 @@
-package com.br.infrastructure.interfaces;
+package com.br.infrastructure.services;
 
-import com.br.core.entity.ProfessionalEntity;
 import com.br.infrastructure.dto.ProfessionalCreationDTO;
 import com.br.infrastructure.dto.ProfessionalDetailsDTO;
 

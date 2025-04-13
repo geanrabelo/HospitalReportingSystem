@@ -1,4 +1,4 @@
-package com.br.infrastructure.interfaces;
+package com.br.infrastructure.services;
 
 import com.br.infrastructure.dto.PatientCreationDTO;
 import com.br.infrastructure.dto.PatientDetailsDTO;

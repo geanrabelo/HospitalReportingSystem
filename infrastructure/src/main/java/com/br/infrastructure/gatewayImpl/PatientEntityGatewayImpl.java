@@ -1,4 +1,4 @@
-package com.br.infrastructure.service;
+package com.br.infrastructure.gatewayImpl;
 
 import com.br.application.gateway.PatientEntityGateway;
 import com.br.core.entity.PatientEntity;

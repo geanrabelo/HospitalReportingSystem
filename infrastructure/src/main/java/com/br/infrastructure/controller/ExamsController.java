@@ -4,7 +4,7 @@ import com.br.infrastructure.dto.ExamsCreationDTO;
 import com.br.infrastructure.dto.ExamsDetailsDTO;
 import com.br.infrastructure.dto.ExamsDetailsPatientDTO;
 import com.br.infrastructure.dto.MessageDTO;
-import com.br.infrastructure.interfaces.ExamsService;
+import com.br.infrastructure.services.ExamsService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.util.UriComponentsBuilder;

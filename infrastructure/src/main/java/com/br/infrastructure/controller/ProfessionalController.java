@@ -1,12 +1,9 @@
 package com.br.infrastructure.controller;
 
-import com.br.core.entity.ProfessionalEntity;
-import com.br.infrastructure.domain.Professional;
 import com.br.infrastructure.dto.MessageDTO;
 import com.br.infrastructure.dto.ProfessionalCreationDTO;
 import com.br.infrastructure.dto.ProfessionalDetailsDTO;
-import com.br.infrastructure.interfaces.ProfessionalService;
-import com.br.usecases.ProfessionalEntityUsecases;
+import com.br.infrastructure.services.ProfessionalService;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

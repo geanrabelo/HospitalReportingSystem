@@ -1,10 +1,10 @@
-package com.br.infrastructure.interfaces.impl;
+package com.br.infrastructure.services.impl;
 
 import com.br.core.entity.ExamsEntity;
 import com.br.infrastructure.dto.ExamsCreationDTO;
 import com.br.infrastructure.dto.ExamsDetailsDTO;
 import com.br.infrastructure.dto.ExamsDetailsPatientDTO;
-import com.br.infrastructure.interfaces.ExamsService;
+import com.br.infrastructure.services.ExamsService;
 import com.br.infrastructure.mapper.ExamsMapper;
 import com.br.usecases.ExamsEntityUsecases;
 import com.br.usecases.PatientEntityUsecases;

@@ -1,9 +1,9 @@
-package com.br.infrastructure.interfaces.impl;
+package com.br.infrastructure.services.impl;
 
 import com.br.core.entity.ProfessionalEntity;
 import com.br.infrastructure.dto.ProfessionalCreationDTO;
 import com.br.infrastructure.dto.ProfessionalDetailsDTO;
-import com.br.infrastructure.interfaces.ProfessionalService;
+import com.br.infrastructure.services.ProfessionalService;
 import com.br.infrastructure.mapper.ProfessionalMapper;
 import com.br.usecases.ProfessionalEntityUsecases;
 import org.springframework.stereotype.Service;
