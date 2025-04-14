@@ -18,4 +18,5 @@ public interface PatientEntityUsecases {
     void deleteByPatientId(Long patientId);
 
     PatientEntity update(Long patientId, PatientEntity newPatientEntity);
+
 }
